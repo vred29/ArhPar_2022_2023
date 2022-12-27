@@ -1,0 +1,24 @@
+{
+	"files.associations": {
+		"stdlib.h": "c",
+		"cl.h": "c",
+		"math.h": "c",
+		"array": "c",
+		"vector": "c",
+		"xstring": "c",
+		"xutility": "c",
+		"iterator": "c",
+		"string": "c",
+		"string_view": "c",
+		"algorithm": "c",
+		"bitset": "c",
+		"chrono": "c",
+		"xhash": "c",
+		"xtree": "c",
+		"__bit_reference": "c",
+		"map": "c",
+		"set": "c",
+		"unordered_map": "c",
+		"_openclutil.h": "c"
+	}
+}
